@@ -1,0 +1,1 @@
+function log(){var args=[].slice.call(arguments);args.unshift("%c%s","font-size:16px;color:#009966;","[qlog] ");console.log.apply(console,args)};
